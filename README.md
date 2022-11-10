@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VIshnuhari-17
+- 👋 Hi, I’m @vishnuhari17
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning python and algorithms
 - 📫 You can feel free to reach me at vishnuhari.anup@gmail.com
