@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
-- 💬 Ask me about **DSA and Algoo :)**
+- 💬 Ask me about **DS and Algoo:)**
 
 - 📫 How to reach me **vishnuhari.anup@gmail.com**
 
