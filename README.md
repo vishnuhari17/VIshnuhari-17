@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishnuhari V A</h1>
 
-<h3 align="center">A young dumb Computer Science Student(Fresher) From Kerala,India</h3>
+<h3 align="center">A young Computer Science Student From Kerala,India :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnuhari17&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuhari17" /> </p>
 
