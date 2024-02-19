@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Python Projects / Documentation**
 
-- 💬 Ask me about **DS and Algoo:)**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **vishnuhari.anup@gmail.com**
 
