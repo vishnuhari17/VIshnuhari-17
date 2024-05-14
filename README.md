@@ -1,33 +1,68 @@
-<h1 align="center">Hi 👋, I'm Vishnuhari V A</h1>
+<h1 align="center">
+Tech whizzes, it's Vishnuhari👋
+</h1>
 
-<h3 align="center">A young Computer Science Student From Kerala,India :)</h3>
+![](https://komarev.com/ghpvc/?username=vishnuhari17&label=Profile%20views&color=000000&style=for-the-badge)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnuhari17&label=Profile%20views&color=0e75b6&style=flat" alt="vishnuhari17" /> </p>
+Being an autodidact in development, I'm set on creating something truly remarkable.
 
-- 🔭 I’m currently working on **Data structures and Algorithms**
+### Things i could help you with
+- Building high-performance, SEO-friendly websites with React, Next.js, and more for a modern edge.
+- Crafting Python scripts to automate mundane tasks with ease.
+- Architecting backend systems, APIs, and databases for seamless scalability and optimal performance.
+- Developing mobile applications with sleek functionality and user-friendly design.
 
-- 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **Python Projects / Documentation**
 
-- 💬 Ask me about **Anything**
+## I am experienced in
+<h3 align="center">
 
-- 📫 How to reach me **vishnuhari.anup@gmail.com**
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&labelColor=black)
+    ![Java Script](https://img.shields.io/badge/Javascript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/Java-%23F78D0A?style=for-the-badge&logo=openjdk&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/css-%231572B6?style=for-the-badge&logo=css3&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/nextjs-%23000000?style=for-the-badge&logo=nextdotjs&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/nodejs-%235FA04E?style=for-the-badge&logo=nodedotjs&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/tailwindcss-%2306B6D4?style=for-the-badge&logo=tailwindcss&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/netlify-%2300C7B7?style=for-the-badge&logo=netlify&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/chatgpt-%23412991?style=for-the-badge&logo=openai&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/notion-%23000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/npm-%23CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/express-%23000000?style=for-the-badge&logo=express&logoColor=white&labelColor=black)
+    ![Static Badge](https://img.shields.io/badge/selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=black)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vishnuhari_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishnuhari_17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishnuhari-v-a-9722a0255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnuhari-v-a-9722a0255" height="30" width="40" /></a>
-<a href="https://instagram.com/vishnuhari17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishnuhari17" height="30" width="40" /></a>
-<a href="https://medium.com/@vishnuhari.anup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vishnuhari.anup" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vishnuhari17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishnuhari17" height="30" width="40" /></a>
-<a href="https://discord.gg/Qde3WaqX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Qde3WaqX" height="30" width="40" /></a>
-</p>
+</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## Diving deep into honing my expertise in..
+<h3 align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnuhari17&show_icons=true&locale=en" alt="vishnuhari17" /></p>
+![Static Badge](https://img.shields.io/badge/flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=black)
+    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+    ![Static Badge](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=black)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuhari17&" alt="vishnuhari17" /></p>
+    
+</h3>
 
+## Ping Me
+
+- Twitter: <span style="font-family: 'Meslo Nerd Font', monospace;">[@vishnuhari_17](https://twitter.com/vishnuhari_17)</span>
+
+## I'm Open for Collaboration
+
+My unwavering commitment to excellence guarantees that every project is completed with meticulous attention to detail and a high level of professionalism. Let's work together to turn your ideas into reality. Feel free to connect with me via [Email](mailto:vishnuhari.anup@gmail.com) or [LinkedIn](https://www.linkedin.com/in/vishnuhari-v-a-9722a0255/).
+
+## Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnuhari17&show_icons=true&theme=dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=vishnuhari17&theme=dark&hide_border=true)
+
+![](https://github-contributor-stats.vercel.app/api?username=vishnuhari17&limit=5&theme=dark&hide_border=true&combine_all_yearly_contributions=true)
