@@ -61,7 +61,7 @@ My unwavering commitment to excellence guarantees that every project is complete
 
 ## Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnuhari17&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=vishnuhari17&show_icons=true&theme=dark&hide_border=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vishnuhari17&theme=dark&hide_border=true)
 
